@@ -1,4 +1,4 @@
-# Zadaca-br.12_8085
+ # Zadaca-br.12_8085
 
 Write an equivalent assembly program to the corresponding program written in a higher level programming language. #define N 30 void main() { int x[50], y[50], z[50]; for (int i=1; i<=N; i++) { z[i]=10; x[i]=4*y[i]; } }
 
